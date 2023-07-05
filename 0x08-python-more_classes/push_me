@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m'More Classes and Objects'
+git commit -m'Making files executable'
 git push
