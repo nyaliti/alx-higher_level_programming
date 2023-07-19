@@ -1,5 +1,5 @@
 #!/bin/bash
 git add .
-git commit -m'almost a circle success'
+git commit -m'test_models'
 git push
 
